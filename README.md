@@ -1,8 +1,3 @@
-Here's the complete `README.md` file for your AutoML Pipeline Builder project:
-
-### README.md
-
-```markdown
 # AutoML Pipeline Builder
 
 AutoML Pipeline Builder is an open-source Python tool designed to automate the process of building, evaluating, and deploying machine learning pipelines. This tool simplifies the workflow for data scientists and AI practitioners by providing a comprehensive set of features for different stages of the machine learning lifecycle.
